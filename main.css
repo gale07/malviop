@@ -1,3 +1,4 @@
+    <style>
         body {
             background: rgb(9,9,121);
             background: linear-gradient(0deg, rgba(9,9,121,1) 30%, rgba(0,212,255,1) 100%);
@@ -84,3 +85,4 @@
         p {
             font-family: Arial, Helvetica, sans-serif;
         }
+    </style>
